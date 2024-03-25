@@ -37,7 +37,7 @@ const data = [
 const Testimonials = () => {
     return (
         <div className='relative'>
-            <div className="absolute inset-0">
+{/*             <div className="absolute inset-0">
                 <Image
                     height={2000}
                     width={2000}
@@ -45,7 +45,7 @@ const Testimonials = () => {
                     src={"/images/purplebg3.png"}
                     style={{ height: "100%", width: "100%" }}
                 />
-            </div>
+            </div> */}
 
             <div className='sm:mx-16 mx-6'>
                 <div className='flex item center justify-center'>
