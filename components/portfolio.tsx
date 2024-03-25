@@ -25,7 +25,7 @@ const data = [
 const Portfolio = () => {
     return (
         <div className='relative'>
-            <div className="absolute inset-0">
+{/*             <div className="absolute inset-0">
                 <Image
                     height={2000}
                     width={2000}
@@ -34,7 +34,7 @@ const Portfolio = () => {
                     style={{ height: "100%", width: "100%" }}
                     className='sm:-mt-[100px] -mt-[100px]'
                 />
-            </div>
+            </div> */}
             <div className="py-16 sm:mx-16 mx-6">
 
                 <div className='flex item center justify-center'>
