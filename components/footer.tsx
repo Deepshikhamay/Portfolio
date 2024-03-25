@@ -5,7 +5,7 @@ import { BsInstagram, BsGithub, BsLinkedin, BsTwitter } from 'react-icons/bs';
 const Footer = () => {
     return (
         <div className='relative'>
-            <div className="absolute inset-0">
+{/*             <div className="absolute inset-0">
                 <Image
                     height={2000}
                     width={2000}
@@ -13,7 +13,7 @@ const Footer = () => {
                     src={"/images/purplebg2.png"}
                     style={{ height: "100%", width: "100%" }}
                 />
-            </div>
+            </div> */}
 
             <div className="bg-primary py-12 text-white text-sm text-center mt-28 eurostile sm:mx-16 mx-6">
                 <a href="#" className="text-2xl font-semibold block mb-8 animate-slide-up">DEEPSHIKHA SINGH</a>
